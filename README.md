@@ -1,5 +1,5 @@
 # little-java-training
-Basics of java, test and annotations
+This is a very basic Java project I am creating to teach Java to some students.
 
 ## Consignas
 1. Crear un nuevo paquete llamado "paquete"
